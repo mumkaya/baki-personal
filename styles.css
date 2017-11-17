@@ -28,6 +28,22 @@ body {
 }
 
 .link {
-  color: inherit;
+  color: #777;
   text-decoration: none;
+}
+
+.contact-wrap {
+  display: fixed;
+  font-size: 21px;
+  right: 0;
+  position: absolute;
+  bottom: 50vh;
+}
+
+.side-text {
+  font-size: 34px;
+  /*letter-spacing: 3px;*/
+  margin: 40px;
+  text-transform: uppercase;
+  writing-mode: vertical-rl;
 }
