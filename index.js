@@ -1,4 +1,4 @@
-const words = ['designer', 'creative director', 'technologist', 'gentleman','solution architect', 'UX/UI Designer'];
+const words = ['designer', 'creative director','communication designer','technologist','gentleman','product designer', 'UX/UI Designer'];
 
 $(document).ready(function() {
     let text = $('.text-fade');
